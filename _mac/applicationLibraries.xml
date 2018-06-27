@@ -2666,10 +2666,12 @@
     </library>
     <library name="bcrypt (v3.1.12, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
@@ -2806,11 +2808,13 @@
     </library>
     <library name="byebug (v10.0.2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/byebug/10.0.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/exe" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/lib" />
@@ -3392,11 +3396,13 @@
     </library>
     <library name="ffi (v1.9.25, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ffi/1.9.25" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.25/samples" />
@@ -4066,12 +4072,14 @@
     </library>
     <library name="msgpack (v1.2.4, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/bench" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/msgpack/1.2.4" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/msgpack-1.2.4/bench" />
@@ -4196,11 +4204,13 @@
     </library>
     <library name="nio4r (v2.3.1, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/tasks" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/nio4r/2.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/nio4r-2.3.1/tasks" />
@@ -4768,11 +4778,13 @@
     </library>
     <library name="rb-fsevent (v0.10.3, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/rb-fsevent/0.10.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rb-fsevent-0.10.3/lib" />
@@ -5504,10 +5516,12 @@
     </library>
     <library name="websocket-driver (v0.7.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/websocket-driver-0.7.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/websocket-driver/0.7.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/websocket-driver-0.7.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/websocket-driver-0.7.0/lib" />
       </SOURCES>
