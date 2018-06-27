@@ -7,6 +7,7 @@
       <mapping pattern="prod_debug" type="PLAIN_TEXT" />
       <mapping pattern="debug_prod" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
+      <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
