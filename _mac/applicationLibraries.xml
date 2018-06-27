@@ -1838,6 +1838,20 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="foreman (v0.85.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/man" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/foreman-0.85.0/data" />
+      </SOURCES>
+    </library>
     <library name="geocoder (v1.4.5, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/geocoder-1.4.5/bin" />
