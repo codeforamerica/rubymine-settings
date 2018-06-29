@@ -1546,6 +1546,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/byebug-10.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="capybara (v2.17.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-2.17.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-2.17.0/.yard" />
+      </SOURCES>
+    </library>
     <library name="capybara (v3.3.1, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.3.1/lib" />
@@ -3300,6 +3310,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/selectize-rails-0.12.4.1/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/selectize-rails-0.12.4.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="selenium-webdriver (v3.13.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/selenium-webdriver-3.13.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/selenium-webdriver-3.13.0/lib" />
       </SOURCES>
     </library>
     <library name="selenium-webdriver (v3.4.3, ruby-2.5.1-p57) [gem]">
