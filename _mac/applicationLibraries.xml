@@ -1574,6 +1574,24 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="capybara-webkit (v1.15.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/templates" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/capybara-webkit/1.15.0" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/src" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/gemfiles" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-webkit-1.15.0/templates" />
+      </SOURCES>
+    </library>
     <library name="childprocess (v0.9.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/childprocess-0.9.0/lib" />
