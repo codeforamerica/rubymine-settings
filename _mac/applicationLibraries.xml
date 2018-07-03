@@ -1732,6 +1732,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/delayed_job_active_record-4.1.3/lib" />
       </SOURCES>
     </library>
+    <library name="delayed_job_web (v1.4.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/delayed_job_web-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/delayed_job_web-1.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/delayed_job_web-1.4.2/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/delayed_job_web-1.4.2/lib" />
+      </SOURCES>
+    </library>
     <library name="delayed_job_web (v1.4.3, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/delayed_job_web-1.4.3/bin" />
@@ -2970,6 +2980,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-2.0.5/example" />
       </SOURCES>
     </library>
+    <library name="rack-protection (v2.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rack-protection-2.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-protection (v2.0.3, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.3/lib" />
@@ -3108,6 +3126,18 @@
         <root url="file://$USER_HOME$/.rubies/ruby-2.4.2/lib/ruby/gems/2.4.0/gems/rake-12.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v12.3.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/exe" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rake-12.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.3.1, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rake-12.3.1/bin" />
@@ -3224,6 +3254,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec_junit_formatter-0.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.55.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/assets" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/bin" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/assets" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/rubocop-0.55.0/config" />
       </SOURCES>
     </library>
     <library name="rubocop (v0.57.2, ruby-2.5.1-p57) [gem]">
@@ -3424,6 +3468,14 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/simplecov-html-0.10.2/views" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/simplecov-html-0.10.2/assets" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/simplecov-html-0.10.2/public" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/sinatra-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/sinatra-2.0.2/lib" />
       </SOURCES>
     </library>
     <library name="sinatra (v2.0.3, ruby-2.5.1-p57) [gem]">
@@ -3646,6 +3698,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.2/lib" />
+        <root url="file://$USER_HOME$/.rubies/ruby-2.5.1/lib/ruby/gems/2.5.0/gems/unicode-display_width-1.3.2/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width (v1.4.0, ruby-2.5.1-p57) [gem]">
