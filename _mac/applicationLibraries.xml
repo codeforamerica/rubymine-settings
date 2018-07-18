@@ -7898,6 +7898,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/react_on_rails-10.0.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="remote_syslog_logger (v1.0.3, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/remote_syslog_logger-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/remote_syslog_logger-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="remote_syslog_logger (v1.0.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/remote_syslog_logger-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/remote_syslog_logger-1.0.3/lib" />
+      </SOURCES>
+    </library>
     <library name="request_store (v1.4.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/request_store-1.4.0/lib" />
@@ -8846,6 +8862,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="syslog_protocol (v0.9.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/syslog_protocol-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/syslog_protocol-0.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="syslog_protocol (v0.9.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/syslog_protocol-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/syslog_protocol-0.9.2/lib" />
       </SOURCES>
     </library>
     <library name="temple (v0.8.0, ruby-2.5.0-p0) [gem]">
