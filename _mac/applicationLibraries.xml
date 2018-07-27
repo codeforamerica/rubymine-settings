@@ -3396,6 +3396,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-4.2.7/features" />
       </SOURCES>
     </library>
+    <library name="bourbon (v5.1.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="bourbon (v5.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/core" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.github" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/features" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bourbon-5.1.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="brakeman (v4.3.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/brakeman-4.3.1/bin" />
@@ -6432,6 +6468,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mustermann-1.0.2/bench" />
       </SOURCES>
     </library>
+    <library name="neat (v1.8.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/contrib" />
+      </SOURCES>
+    </library>
+    <library name="neat (v1.8.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/contrib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.8.0/contrib" />
+      </SOURCES>
+    </library>
     <library name="neat (v1.9.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/neat-1.9.0/app" />
@@ -7506,6 +7570,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-test-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-test (v1.1.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-test (v1.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-test-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-test-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rails (v5.1.4, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rails-5.1.4" />
@@ -8420,6 +8500,34 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.6/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.7, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/rails" />
+      </SOURCES>
+    </library>
+    <library name="sass (v3.5.7, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/extra" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-3.5.7/rails" />
+      </SOURCES>
+    </library>
     <library name="sass-listen (v4.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sass-listen-4.0.0/lib" />
@@ -9304,6 +9412,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.16, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.16/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.16, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.16/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v4.1.2, ruby-2.5.0-p0) [gem]">
