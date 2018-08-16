@@ -6,6 +6,7 @@
       <mapping pattern="USAGE" type="PLAIN_TEXT" />
       <mapping pattern="release_demo" type="PLAIN_TEXT" />
       <mapping pattern="prod_debug" type="PLAIN_TEXT" />
+      <mapping pattern="staging" type="PLAIN_TEXT" />
       <mapping pattern="debug_prod" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
