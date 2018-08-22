@@ -8764,6 +8764,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/premailer-rails-1.10.1/example" />
       </SOURCES>
     </library>
+    <library name="prism-rails (v1.6.0.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.11.3, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pry-0.11.3/bin" />
