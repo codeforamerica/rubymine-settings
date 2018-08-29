@@ -9660,22 +9660,6 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/route_downcaser-1.2.2/lib" />
       </SOURCES>
     </library>
-    <library name="rspec (v3.7.0, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec (v3.7.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
-      </SOURCES>
-    </library>
     <library name="rspec-core (v3.7.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-core-3.7.1/exe" />
@@ -9794,22 +9778,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-rails-3.7.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-rails (v3.8.0, ruby-2.5.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-rails-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-rails-3.8.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="rspec-rails (v3.8.0, ruby-2.5.1-p57) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-rails-3.8.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-rails-3.8.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-support (v3.7.0, ruby-2.5.0-p0) [gem]">
