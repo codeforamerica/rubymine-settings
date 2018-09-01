@@ -10106,6 +10106,26 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.1/samples" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+    </library>
+    <library name="rubyzip (v1.2.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+    </library>
     <library name="safe_shell (v1.1.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/safe_shell-1.1.0/lib" />
