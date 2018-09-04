@@ -4558,11 +4558,13 @@
     </library>
     <library name="bootsnap (v1.3.1, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.1" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/lib" />
@@ -8968,12 +8970,14 @@
     </library>
     <library name="puma (v3.12.0, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/puma/3.12.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/puma-3.12.0/lib" />
