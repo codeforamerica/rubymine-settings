@@ -8756,6 +8756,16 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/premailer-rails-1.10.1/example" />
       </SOURCES>
     </library>
+    <library name="prism-rails (v1.6.0.3, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/vendor" />
+      </SOURCES>
+    </library>
     <library name="prism-rails (v1.6.0.3, ruby-2.5.1-p57) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/prism-rails-1.6.0.3/lib" />
@@ -9686,6 +9696,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/route_downcaser-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.7.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v3.7.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rspec-3.7.0/lib" />
       </SOURCES>
     </library>
     <library name="rspec-core (v3.7.1, ruby-2.5.0-p0) [gem]">
