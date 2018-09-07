@@ -9538,10 +9538,12 @@
     </library>
     <library name="pg (v1.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.0.0" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.0.0/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.0.0/lib" />
       </SOURCES>
