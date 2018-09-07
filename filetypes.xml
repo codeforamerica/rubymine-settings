@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.template.rb" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern=".rubocop" type="PLAIN_TEXT" />
       <mapping pattern="USAGE" type="PLAIN_TEXT" />
       <mapping pattern="release_demo" type="PLAIN_TEXT" />
       <mapping pattern="prod_debug" type="PLAIN_TEXT" />
