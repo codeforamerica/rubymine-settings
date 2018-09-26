@@ -5506,6 +5506,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-1.2.0/concourse" />
       </SOURCES>
     </library>
+    <library name="chromedriver-helper (v2.1.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/concourse" />
+      </SOURCES>
+    </library>
+    <library name="chromedriver-helper (v2.1.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/concourse" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chromedriver-helper-2.1.0/concourse" />
+      </SOURCES>
+    </library>
     <library name="chronic (v0.10.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chronic-0.10.2/lib" />
@@ -7284,6 +7308,30 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/haml-rails-1.0.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/haml-rails-1.0.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="handlebars_assets (v0.23.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="handlebars_assets (v0.23.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/handlebars_assets-0.23.2/gemfiles" />
       </SOURCES>
     </library>
     <library name="has_scope (v0.7.1, ruby-2.5.0-p0) [gem]">
