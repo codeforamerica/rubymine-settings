@@ -4666,10 +4666,12 @@
     </library>
     <library name="bcrypt (v3.1.12, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bcrypt-3.1.12/lib" />
       </SOURCES>
