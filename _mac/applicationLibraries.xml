@@ -4752,6 +4752,32 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.1/lib" />
       </SOURCES>
     </library>
+    <library name="bootsnap (v1.3.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="bootsnap (v1.3.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.2" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/bootsnap/1.3.2" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/ext" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootsnap-1.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="bootstrap (v4.1.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/bootstrap-4.1.1/lib" />
@@ -5194,6 +5220,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v3.7.2, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v3.7.2, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/capybara-3.7.2/lib" />
       </SOURCES>
     </library>
     <library name="capybara-email (v3.0.1, ruby-2.5.0-p0) [gem]">
@@ -6784,6 +6826,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday-0.15.2/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.15.3, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday-0.15.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday-0.15.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday (v0.15.3, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday-0.15.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday-0.15.3/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday_middleware (v0.12.2, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/faraday_middleware-0.12.2/lib" />
@@ -7118,6 +7176,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.17.2/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.17.2/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.17.2/features" />
+      </SOURCES>
+    </library>
+    <library name="gli (v2.18.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/features" />
+      </SOURCES>
+    </library>
+    <library name="gli (v2.18.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/gli-2.18.0/features" />
       </SOURCES>
     </library>
     <library name="globalid (v0.4.1, ruby-2.5.0-p0) [gem]">
@@ -8604,6 +8686,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_magick-4.8.0/lib" />
       </SOURCES>
     </library>
+    <library name="mini_magick (v4.9.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_magick-4.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_magick-4.9.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.9.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_magick-4.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_magick-4.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mini_mime (v1.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/mini_mime-1.0.0/bin" />
@@ -9554,6 +9652,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.45.0/template-dir" />
       </SOURCES>
     </library>
+    <library name="overcommit (v0.46.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/libexec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/libexec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/template-dir" />
+      </SOURCES>
+    </library>
+    <library name="overcommit (v0.46.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/libexec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/template-dir" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/libexec" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/overcommit-0.46.0/template-dir" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.12.1, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/parallel-1.12.1/lib" />
@@ -9656,6 +9786,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pdf-forms-1.1.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-forms (v1.2.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pdf-forms-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pdf-forms-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-forms (v1.2.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pdf-forms-1.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pdf-forms-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="pdf-inspector (v1.3.0, ruby-2.5.0-p0) [gem]">
@@ -9794,10 +9940,12 @@
     </library>
     <library name="pg (v1.1.3, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.1.3/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/pg/1.1.3" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.1.3/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/pg-1.1.3/lib" />
       </SOURCES>
@@ -10406,6 +10554,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.4, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.4, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rack-protection-2.0.4/lib" />
       </SOURCES>
     </library>
     <library name="rack-proxy (v0.6.3, ruby-2.5.0-p0) [gem]">
@@ -11512,6 +11676,38 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.59.1, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/config" />
+      </SOURCES>
+    </library>
+    <library name="rubocop (v0.59.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/exe" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/assets" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-0.59.1/config" />
+      </SOURCES>
+    </library>
     <library name="rubocop-rspec (v1.27.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/rubocop-rspec-1.27.0/lib" />
@@ -11604,10 +11800,12 @@
     </library>
     <library name="ruby-filemagic (v0.7.2, ruby-2.5.1-p57) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-filemagic/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ruby-filemagic-0.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ruby-filemagic-0.7.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs24/ruby-filemagic/0.7.2" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ruby-filemagic-0.7.2/ext" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/ruby-filemagic-0.7.2/lib" />
       </SOURCES>
@@ -12268,6 +12466,22 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sinatra-2.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="sinatra (v2.0.4, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sinatra-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sinatra-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="sinatra (v2.0.4, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sinatra-2.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sinatra-2.0.4/lib" />
+      </SOURCES>
+    </library>
     <library name="sitemap_generator (v6.0.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/sitemap_generator-6.0.0/lib" />
@@ -12338,6 +12552,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.12.0/bin" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.12.0/lib" />
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.12.0/screenshots" />
+      </SOURCES>
+    </library>
+    <library name="slack-ruby-client (v0.13.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/screenshots" />
+      </SOURCES>
+    </library>
+    <library name="slack-ruby-client (v0.13.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/screenshots" />
       </SOURCES>
     </library>
     <library name="spoon (v0.0.6, ruby-2.5.0-p0) [gem]">
@@ -12988,6 +13226,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.12.4/githooks" />
       </SOURCES>
     </library>
+    <library name="twilio-ruby (v5.13.0, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/conf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/conf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/githooks" />
+      </SOURCES>
+    </library>
+    <library name="twilio-ruby (v5.13.0, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/conf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/githooks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/conf" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/twilio-ruby-5.13.0/githooks" />
+      </SOURCES>
+    </library>
     <library name="typhoeus (v1.3.0, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/typhoeus-1.3.0/lib" />
@@ -13102,6 +13364,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.18/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.19, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.19/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.19, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.19/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/uglifier-4.1.19/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v4.1.2, ruby-2.5.0-p0) [gem]">
