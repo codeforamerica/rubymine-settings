@@ -12578,6 +12578,30 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.0/screenshots" />
       </SOURCES>
     </library>
+    <library name="slack-ruby-client (v0.13.1, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/screenshots" />
+      </SOURCES>
+    </library>
+    <library name="slack-ruby-client (v0.13.1, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/screenshots" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/slack-ruby-client-0.13.1/screenshots" />
+      </SOURCES>
+    </library>
     <library name="spoon (v0.0.6, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/spoon-0.0.6/lib" />
