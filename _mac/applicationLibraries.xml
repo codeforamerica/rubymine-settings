@@ -1418,6 +1418,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-8b61aaca6f4d/.circleci" />
       </excluded>
     </library>
+    <library name="cfa-styleguide (v0.3.1@e95265, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </excluded>
+    </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="2" />
@@ -1603,6 +1635,22 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/coffee-script-source-1.12.2/lib" />
       </SOURCES>
+    </library>
+    <library name="combine_pdf (v1.0.15, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-1.0.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-1.0.15/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-1.0.15/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-1.0.15/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/combine_pdf-1.0.15/test" />
+      </excluded>
     </library>
     <library name="concurrent-ruby (v1.0.5, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
@@ -7134,6 +7182,42 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/whenever-0.10.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/whenever-0.10.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/whenever-0.10.0/gemfiles" />
+      </excluded>
+    </library>
+    <library name="wicked_pdf (v1.1.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/generators" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wicked_pdf-1.1.0/generators" />
+      </excluded>
+    </library>
+    <library name="wkhtmltopdf-binary (v0.12.4, RVM: ruby-2.5.1) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="2" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wkhtmltopdf-binary-0.12.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wkhtmltopdf-binary-0.12.4/bin" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/wkhtmltopdf-binary-0.12.4/bin" />
       </excluded>
     </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
