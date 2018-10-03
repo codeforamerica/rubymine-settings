@@ -5546,6 +5546,42 @@
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-7912b5988af9/.circleci" />
       </SOURCES>
     </library>
+    <library name="cfa-styleguide (v0.3.1@e95265, ruby-2.5.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </SOURCES>
+    </library>
+    <library name="cfa-styleguide (v0.3.1@e95265, ruby-2.5.1-p57) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/app" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/bin" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/lib" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/config" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/vendor" />
+        <root url="file://$USER_HOME$/.gem/ruby/2.5.1/bundler/gems/cfa-styleguide-gem-e952654c014b/.circleci" />
+      </SOURCES>
+    </library>
     <library name="chartkick (v2.2.5, ruby-2.5.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.gem/ruby/2.5.1/gems/chartkick-2.2.5/app" />
