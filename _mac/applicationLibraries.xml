@@ -17984,6 +17984,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-0.12.4/bin" />
       </excluded>
     </library>
+    <library name="wkhtmltopdf-binary-edge (v0.12.5.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/libexec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/libexec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/libexec" />
+      </excluded>
+    </library>
     <library name="xmlrpc (v0.3.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
