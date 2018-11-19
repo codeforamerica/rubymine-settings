@@ -5,21 +5,22 @@
       <mapping pattern="*.template.rb" type="PLAIN_TEXT" />
       <mapping pattern=".rubocop" type="PLAIN_TEXT" />
       <mapping pattern="debug_prod" type="PLAIN_TEXT" />
-      <mapping pattern="release_demo" type="PLAIN_TEXT" />
-      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
-      <mapping pattern="USAGE" type="PLAIN_TEXT" />
-      <mapping pattern="prod_debug" type="PLAIN_TEXT" />
       <mapping pattern="sandbox" type="PLAIN_TEXT" />
+      <mapping pattern="release_demo" type="PLAIN_TEXT" />
+      <mapping pattern="USAGE" type="PLAIN_TEXT" />
+      <mapping pattern=".ruby-version" type="PLAIN_TEXT" />
+      <mapping pattern="prod_debug" type="PLAIN_TEXT" />
+      <mapping pattern="Brewfile" type="PLAIN_TEXT" />
       <mapping pattern="development" type="PLAIN_TEXT" />
       <mapping pattern=".foreman" type="PLAIN_TEXT" />
       <mapping pattern="blah" type="PLAIN_TEXT" />
       <mapping pattern=".rspec" type="PLAIN_TEXT" />
       <mapping pattern="staging" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
-      <mapping ext="template" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
