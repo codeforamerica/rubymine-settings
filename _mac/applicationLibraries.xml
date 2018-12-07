@@ -1621,6 +1621,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.3.1/spec" />
       </excluded>
     </library>
+    <library name="autoprefixer-rails (v9.4.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/autoprefixer-rails-9.4.2/spec" />
+      </excluded>
+    </library>
     <library name="awesome_print (v1.7.0, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5507,6 +5525,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-4f753650bbd7/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-4f753650bbd7/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-4f753650bbd7/.circleci" />
+      </excluded>
+    </library>
+    <library name="cfa-styleguide (v0.4.8@a145db, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-a145db51e017/.circleci" />
       </excluded>
     </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.2.6) [gem]" type="rubylib">
