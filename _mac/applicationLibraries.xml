@@ -21795,6 +21795,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-binary-edge-0.12.5.0/libexec" />
       </excluded>
     </library>
+    <library name="wkhtmltopdf-heroku (v2.12.4.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-heroku-2.12.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-heroku-2.12.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-heroku-2.12.4.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-heroku-2.12.4.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/wkhtmltopdf-heroku-2.12.4.0/bin" />
+      </excluded>
+    </library>
     <library name="xmlrpc (v0.2.1, RVM: ruby-2.4.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
