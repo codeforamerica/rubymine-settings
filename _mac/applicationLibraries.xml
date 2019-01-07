@@ -4213,11 +4213,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bcrypt/3.1.12" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bcrypt-3.1.12/spec" />
@@ -14161,6 +14163,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/lib" />
@@ -14170,6 +14173,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/lib" />
