@@ -14204,6 +14204,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/lib" />
@@ -14213,6 +14214,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.5" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.8.5/lib" />
@@ -14235,14 +14237,12 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/patches" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.9.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.9.1/lib" />
