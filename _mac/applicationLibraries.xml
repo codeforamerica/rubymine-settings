@@ -4094,6 +4094,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/backports-3.11.3/frozen_old_spec" />
       </excluded>
     </library>
+    <library name="backports (v3.11.4, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/frozen_old_spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/backports-3.11.4/frozen_old_spec" />
+      </excluded>
+    </library>
     <library name="bcrypt (v3.1.10, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5928,6 +5953,38 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-299c44429f34/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-299c44429f34/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-299c44429f34/.circleci" />
+      </excluded>
+    </library>
+    <library name="cfa-styleguide (v0.5.7@bdf3e7, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/bundler/gems/cfa-styleguide-gem-bdf3e79910dc/.circleci" />
       </excluded>
     </library>
     <library name="childprocess (v0.9.0, RVM: ruby-2.2.6) [gem]" type="rubylib">
@@ -8319,6 +8376,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.7.1/test" />
+      </excluded>
+    </library>
+    <library name="erubi (v1.8.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.8.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.8.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/erubi-1.8.0/test" />
       </excluded>
     </library>
     <library name="erubis (v2.7.0, RVM: ruby-2.2.6) [gem]" type="rubylib">
@@ -10764,6 +10837,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/i18n-1.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="i18n (v1.5.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/i18n-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/i18n-1.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="i18n-tasks (v0.9.21, RVM: ruby-2.2.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -12588,6 +12672,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mini_magick-4.9.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="mini_magick (v4.9.2, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/mini_magick-4.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/mini_magick-4.9.2/lib" />
       </SOURCES>
     </library>
     <library name="mini_mime (v1.0.0, RVM: ruby-2.2.6) [gem]" type="rubylib">
@@ -16195,6 +16290,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rack-protection-2.0.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="rack-protection (v2.0.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rack-protection-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rack-protection-2.0.5/lib" />
       </SOURCES>
     </library>
     <library name="rack-ssl (v1.4.1, RVM: ruby-2.2.6) [gem]" type="rubylib">
@@ -20333,6 +20439,33 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.4/examples" />
       </excluded>
+    </library>
+    <library name="sinatra (v2.0.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.5/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.5/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-2.0.5/examples" />
+      </excluded>
+    </library>
+    <library name="sinatra-contrib (v2.0.5, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-contrib-2.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/sinatra-contrib-2.0.5/lib" />
+      </SOURCES>
     </library>
     <library name="slack-ruby-client (v0.13.0, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
