@@ -7881,6 +7881,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.5.0/gemfiles" />
       </excluded>
     </library>
+    <library name="devise (v4.6.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/devise-4.6.1/config" />
+      </excluded>
+    </library>
     <library name="devise-otp (v0.2.4@a18121, RVM: ruby-2.5.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -18689,6 +18707,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/responders-2.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="responders (v2.4.1, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/responders-2.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/responders-2.4.1/lib" />
       </SOURCES>
     </library>
     <library name="rest-client (v1.8.0, RVM: ruby-2.2.6) [gem]" type="rubylib">
