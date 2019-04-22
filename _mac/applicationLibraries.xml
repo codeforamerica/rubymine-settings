@@ -5275,11 +5275,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/test" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bindex/0.6.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/test" />
@@ -5532,12 +5534,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/.github" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/bootsnap/1.4.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/lib" />
@@ -6452,11 +6456,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/byebug/11.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/byebug-11.0.1/lib" />
@@ -13058,6 +13064,27 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.2/gemfiles" />
       </excluded>
     </library>
+    <library name="handlebars_assets (v0.23.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/handlebars_assets-0.23.3/gemfiles" />
+      </excluded>
+    </library>
     <library name="has_scope (v0.7.1, RVM: ruby-2.4.5) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -17346,6 +17373,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/spec" />
@@ -17353,6 +17381,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.9/spec" />
@@ -19817,11 +19846,13 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/spec" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/pg/1.1.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/pg-1.1.4/spec" />
@@ -21022,6 +21053,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/lib" />
@@ -21029,6 +21061,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/tools" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/puma/3.12.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/puma-3.12.1/lib" />
