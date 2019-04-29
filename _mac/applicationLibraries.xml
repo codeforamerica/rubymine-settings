@@ -5287,6 +5287,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.6.0/test" />
       </excluded>
     </library>
+    <library name="bindex (v0.7.0, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bindex-0.7.0/test" />
+      </excluded>
+    </library>
     <library name="binding_of_caller (v0.7.2, RVM: ruby-2.3.1) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -5545,6 +5564,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.2/.github" />
+      </excluded>
+    </library>
+    <library name="bootsnap (v1.4.4, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/bootsnap-1.4.4/.github" />
       </excluded>
     </library>
     <library name="bootstrap (v4.1.1, RVM: ruby-2.2.6) [gem]" type="rubylib">
@@ -17229,6 +17270,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/momentjs-rails-2.20.1/test" />
       </excluded>
     </library>
+    <library name="msgpack (v1.2.10, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/doclib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/doclib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/msgpack-1.2.10/doclib" />
+      </excluded>
+    </library>
     <library name="msgpack (v1.2.4, RVM: ruby-2.2.6) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -18464,6 +18530,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.2/patches" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.10.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/patches" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/patches" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/nokogiri-1.10.3/patches" />
       </excluded>
     </library>
     <library name="nokogiri (v1.6.8, RVM: ruby-2.3.1) [gem]" type="rubylib">
@@ -24189,6 +24277,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-expectations-3.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v3.8.3, RVM: ruby-2.5.3) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-expectations-3.8.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rspec-expectations-3.8.3/lib" />
       </SOURCES>
     </library>
     <library name="rspec-mocks (v3.4.1, RVM: ruby-2.3.1) [gem]" type="rubylib">
